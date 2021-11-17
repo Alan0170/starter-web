@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 Editing for comparisons
 Editing for comparisons again
+
+### Copyright
+
+2014 Git.Training.
