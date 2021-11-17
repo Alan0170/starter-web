@@ -14,3 +14,7 @@ Editing for comparisons again
 ### Copyright
 
 2014 Git.Training.
+
+
+## Adding comments
+comment
