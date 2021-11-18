@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alan Michel alan.msp22@gmail.com @AlanMichel
 
 # THANKS
 
