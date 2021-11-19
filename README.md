@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 Editing for comparisons
 Editing for comparisons again
 Please fork this repository and then issue Pull Requests for review.
+Updating for emergency fix after stashing.
 
 ### Copyright
 
